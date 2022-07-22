@@ -40,3 +40,4 @@ document.getElementById("myButton").onclick = function () {
 document.getElementById("myButton2").onclick = function () {
   document.getElementById('contactID').scrollIntoView();
 };
+
