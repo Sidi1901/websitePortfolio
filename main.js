@@ -34,7 +34,7 @@ var tagCloud = TagCloud('.content', myTags,{
 }); 
 
 document.getElementById("myButton").onclick = function () {
-  location.href = "https://drive.google.com/file/d/1kdHbXvCMeAwjsfPryG0y3Qu8SA_JIg22/view?usp=sharing"; 
+  location.href = "https://drive.google.com/file/d/1Atyz2Z1Om5yTHxJb2QiL2098aEAmJ4pj/view?usp=sharing"; 
 };
 
 document.getElementById("myButton2").onclick = function () {
